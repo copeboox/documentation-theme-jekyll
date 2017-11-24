@@ -16,7 +16,7 @@ folder: mydoc
 
 ## About the build scripts
 
-The mydoc project has 5 build scripts and a script that runs them all. These scripts will require a bit of detail to configure. Every team member who is publishing on the project should set up their folder structure in the way described here.
+The mydoc project has five build scripts and a script that runs them all. These scripts will require some detail to configure. Every team member who is publishing on the project should set up their folder structure in the way described here.
 
 ## Get Set Up
 
