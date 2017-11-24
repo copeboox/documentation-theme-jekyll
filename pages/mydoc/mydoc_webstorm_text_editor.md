@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 ## About text editors and WebStorm
-There are a variety of text editors available, but I like WebStorm the best because it groups files into projects, which makes it easy to find all instances of a text string, to do find and replace operations across the project, and more.
+There are many text editors available, but I like WebStorm the best because it groups files into projects, which makes it easy to find all instances of a text string, to do find and replace operations across the project, and more.
 
 If you decide to use WebStorm, here are a few tips on configuring the editor.
 
